@@ -1,8 +1,8 @@
 {
-  "presets": ["stage-0"],
-  "plugins": [
-  	"transform-async-to-generator",
-  	"transform-es2015-arrow-functions",
+	"presets": ["stage-0"],
+	"plugins": [
+		"transform-async-to-generator",
+		"transform-es2015-arrow-functions",
 		"transform-es2015-block-scoped-functions",
 		"transform-es2015-block-scoping",
 		"transform-es2015-classes",
